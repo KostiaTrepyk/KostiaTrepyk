@@ -12,15 +12,11 @@
       <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
-
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1500&color=00E9F7&center=true&vCenter=true&random=false&width=600&height=120&lines=%3E+Hi+There!+I+am+Kostia.;%3E+A+Full-stack+developer.;%3E+Proficient+in+React+and+NestJs.)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
-  <h3>I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.</h3>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600px" height="300px"/>
 </div>
 
@@ -42,6 +38,7 @@
 
   <h3>:fire: My Stats</h3>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KostiaTrepyk&theme=one_dark_pro&border=303035)](https://git.io/streak-stats)
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KostiaTrepyk&show_icons=true&theme=one_dark_pro&rank_icon=github)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KostiaTrepyk&theme=one_dark_pro&border=353a3d)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostiaTrepyk&theme=one_dark_pro&layout=donut)
 </div>
